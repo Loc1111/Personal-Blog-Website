@@ -1,3 +1,7 @@
+@import url('index_responsive_stylesheet1.css')(max-width: 600px);
+@import url('index_responsive_stylesheet2.css')(min-width: 600px);
+@import url('index_responsive_stylesheet3.css')(min-width: 992px);
+@import url('index_responsive_stylesheet4.css')(min-width: 1200px);
 body{
   background-color: #444;
   color: #003300;
