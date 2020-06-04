@@ -1,2 +1,6 @@
-# Personal-Blog-Website
-The project Personal Blog Website includes two folders: one includes files .css and the other files .html. Files .css contain post.css, post1.css, post2.css, post3.css, post4.css, and post5.css. Files .html are named the same as files .css.
+In the front end developer course, the first project is Personal Blog Website. This project requires you to utilize your HTML and CSS skills to build out a personal blog website, including custom images, layout, and styling. Along with webpage design considerations, you'll work to appropriately structure your files, as well as use proper CSS and HTML formatting & style.
+
+In this project, you'll get to start from scratch! To complete the project, you are able to decide on the HTML and CSS files to include as part of your work, given that the end result is within the confines of the project rubric provided below. This should include, at minimum, HTML files related to:
+- the blog website
+- a blog post
+as well as any related CSS files for styling.
